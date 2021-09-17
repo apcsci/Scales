@@ -27,7 +27,6 @@ void draw() {
       lift = false;
     else 
       lift = true; 
-    System.out.println();
   }
 
 }
